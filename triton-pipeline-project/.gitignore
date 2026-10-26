@@ -1,0 +1,8 @@
+.venv/
+.idea/
+model_repository/
+__pycache__/
+*.onnx
+*.onnx_data
+triton_log.txt
+triton_docker_log.txt
